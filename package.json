@@ -1,0 +1,23 @@
+{
+  "name": "multicall-example",
+  "version": "1.0.0",
+  "description": "Get the owner of batch for ERC-721 tokens by using Multicall",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leon-do/multicall-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leon-do/multicall-example/issues"
+  },
+  "homepage": "https://github.com/leon-do/multicall-example#readme",
+  "dependencies": {
+    "web3": "^1.5.2"
+  }
+}
